@@ -1,12 +1,11 @@
 #18:20 06/12/2024
 # Tous les fichiers d'extensions :
-.tmp
-#.docx
+*.tmp
+*.vsdx #Visio
 *.docx
-#*.xslx
-.xslx
-.xlsb
-.one
+*.xslx
+*.xlsb
+*.one
 # Tout le contenu des répertoires:
 /WorkItems
 /Temp
