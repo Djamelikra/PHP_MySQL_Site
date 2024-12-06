@@ -1,9 +1,9 @@
 #18:20 06/12/2024
 # Tous les fichiers d'extensions :
 .tmp
-.docx
-#*.docx
-*.xslx
+#.docx
+*.docx
+#*.xslx
 .xslx
 .xlsb
 .one
