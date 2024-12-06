@@ -2,7 +2,7 @@
 # Tous les fichiers d'extensions :
 .tmp
 .docx
-*.docx
+#*.docx
 *.xslx
 .xslx
 .xlsb
