@@ -3,7 +3,7 @@
 *.tmp
 *.vsdx #Visio
 *.docx
-*.xslx
+*.xlsx
 *.xlsb
 *.one
 # Tout le contenu des répertoires:
