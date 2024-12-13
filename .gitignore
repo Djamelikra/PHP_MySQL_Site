@@ -7,5 +7,6 @@
 *.xlsb
 *.one
 # Tout le contenu des répertoires:
+/BKP
 /WorkItems
 /Temp
