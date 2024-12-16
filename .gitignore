@@ -6,6 +6,7 @@
 *.xlsx
 *.xlsb
 *.one
+*.lnk
 # Tout le contenu des répertoires:
 /BKP
 /WorkItems
